@@ -34,3 +34,5 @@ There is no thermometer, FRAM memory nor RTC support yet.
 You need to set your Supla accunt mail and server address in the coode (relative fields are placed in the bottom of the code).
 
 You can integrate Supla with e.g. Home Assistant via MQTT. The setup is pretty easy and reliable. https://en-forum.supla.org/viewtopic.php?t=10419
+
+![alt text](https://github.com/jaku2019/ETH32/blob/main/photos/on_the_din_rail.png?raw=true)
