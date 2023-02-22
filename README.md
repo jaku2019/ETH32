@@ -35,4 +35,8 @@ You need to set your Supla accunt mail and server address in the coode (relative
 
 You can integrate Supla with e.g. Home Assistant via MQTT. The setup is pretty easy and reliable. https://en-forum.supla.org/viewtopic.php?t=10419
 
+## On the din rail
+And that's how it ended! 
+
+You can download a Word file, where you can find ready labels to stick on the enclosure.
 ![alt text](https://github.com/jaku2019/ETH32/blob/main/photos/on_the_din_rail.png?raw=true)
