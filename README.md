@@ -23,11 +23,11 @@ The PCB is designed to fit perfectly to the Kradex ZD1012 enclosure for DIN rail
 ## The code
 In the software example relays no. 101-116 have assigned inputs with relative numbers. 
 
-Input no. 117 turns on all the relays. 
-Single click = turn on all,
-Double click = turn off all. 
+Input no. 117 turns on all the relays.
+Single click = turn on (all),
+double click = turn off (all). 
 
-Everything is preperad to work with moonostable buttons. 
+Everything is preperad to work with monostable buttons. 
 
 There is no thermometer, FRAM memory nor RTC support yet.
 ## Smart home control
