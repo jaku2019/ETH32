@@ -17,6 +17,8 @@ Thanks to the amazing help of @elmaya @radzik_r @klew and othher forum.supla.org
 Instead of soldering the buck converter elements to the PCB, you can insert a ready module LM2596 (it is necessary to set its output voltage to 5V)
 
 ESP is connected with IO by MCP23017. One of this modules was placed on a card that is a bit loose. You shouldn't play with it when ETH32 is on, as it could make the relays stop working. Repositioning it to 90 degrees should solve the problem.
+
+The PCB is designed to fit perfectly to the Kradex ZD1012 enclosure fr DIN rail.
 ## The code
 In the software example relays no. 101-116 have assigned inputs with relative numbers. 
 
